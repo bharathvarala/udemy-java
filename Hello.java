@@ -29,6 +29,26 @@ class Hello{
         // System.out.println(b);
 
         // arithmetic operators
+        // int n1 = 10;
+        // int n2 = 20;
+        // System.out.println(n1*n2);
+        // System.out.println(n1+n2);
+        // System.out.println(n1-n2);
+        // System.out.println(n1%n2);
+        // System.out.println(n1%n2);
+
+        // int n = 7;
+        // int a = ++n;
+        // System.out.println(a+" "+n);
+        // int n1 = 7;
+        // int b = n1++;
+        // System.out.println(b+" "+n1);
+
+        // Relational operators -- == > < >= <= !=
+        // Logical operators -- && || !
+
+        
+
 
 
 
