@@ -44,8 +44,10 @@ class Hello{
         // int b = n1++;
         // System.out.println(b+" "+n1);
 
+
         // Relational operators -- == > < >= <= !=
         // Logical operators -- && || !
+
 
         // conditional statements
         // if else
@@ -90,9 +92,27 @@ class Hello{
         // System.out.println(res);
 
 
+        // loops
+        // for loop
+        // for(int i=0;i<10;i++){
+        //     System.out.print(i+" ");
+        // }
 
+        // int i = 0;
+        // while(i<10){
+        //     System.out.print(i+" ");
+        //     i++;
+        // }
 
+        // do while (does atleast one iteration even if the condition in while isnt satisfied)
+        // int i=11;
+        // do{
+        //     System.out.print(i+" ");
+        //     i++;
+        // }
+        // while(i<=10);
 
+        
 
     }
 }
